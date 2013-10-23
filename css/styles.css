@@ -8,6 +8,29 @@ body {
 	width: 50%;
 }
 
+/* NAV */
+li {
+  float: left;  
+  height: 50px;
+  line-height: 50px;
+  list-style: none;
+	margin: 0 20px 0 10px;
+  text-align: right;
+  width: 150px;
+}
+
+a {
+  background: red;
+  color: #fff;
+  display: block;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+a:hover {
+  background: blue;
+}
+
 p {
 	font-family: 'Noto Sans', sans-serif;
 }
