@@ -4,6 +4,10 @@ body {
 	background: url("../img/bg.png");
 }
 
+#logo {
+	width: 50%;
+}
+
 p {
 	font-family: 'Noto Sans', sans-serif;
 }
