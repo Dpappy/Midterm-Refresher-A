@@ -1,5 +1,9 @@
 /* Stylesheet */
 
+p {
+	font-family: 'Noto Sans', sans-serif;
+}
+
 footer {
 	background: #663;
 }
